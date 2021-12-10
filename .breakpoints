@@ -1,0 +1,28 @@
+{
+  "files": {
+    "SlashCommands/Menus/info/select.js": [
+      {
+        "id": "f2c66504-41eb-41b1-888c-72af2ac59af7",
+        "line": 5,
+        "version": 650,
+        "index": 189
+      }
+    ],
+    "SlashCommands/Menus/info/selectMenus.js": [
+      {
+        "id": "0f1b14e4-9337-4702-a6b3-2541b4e7834d",
+        "line": 13,
+        "version": 310,
+        "index": 492
+      }
+    ],
+    "handler/index.js": [
+      {
+        "id": "229fda99-2bf5-4741-958b-7e2e9a3757f6",
+        "line": 58,
+        "version": 1043,
+        "index": 1729
+      }
+    ]
+  }
+}
